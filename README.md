@@ -1,1 +1,1 @@
-# Regression_Rossman_Sales_Prediction
+# Regression: Prediction of Rossman Stores Sales
